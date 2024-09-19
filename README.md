@@ -22,3 +22,7 @@ My favorite hobbies are:
   - Steamboat Resort
   - BreckenRidge Resort
 5. Photography (Both underwater and above water)
+
+#Some issues I had while doing this assignment:
+1. Jekyll Theme Chooser no longer exists as far as I can tell from google
+2. The ```theme: jekyll-theme-minimal``` statement in config.yml produces an error for me that keeps my pages site from being pushed
